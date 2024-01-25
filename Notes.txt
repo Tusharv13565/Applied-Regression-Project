@@ -1,0 +1,2 @@
+1) Code typed in R-Studio. 
+2) Dataset used 
